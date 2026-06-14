@@ -29,18 +29,18 @@ Las plantillas viven en `./templates/` y materializan el flujo completo cliente 
 
 # Índice de semanas
 
-- [Semana 01 - Entorno local profesional con PHP 8.4, CodeIgniter 4, VS Code, GitHub y OpenCode](./semana-01.md)
-- [Semana 02 - Documento cliente, normalización de requisitos y sistema documental SDD](./semana-02.md)
-- [Semana 03 - Tareas atómicas, importación desde Excel/Jira y generación de Markdown](./semana-03.md)
-- [Semana 04 - Bootstrap del proyecto, estructura CodeIgniter, HTML5, Bootstrap 5 y base MySQL/MariaDB](./semana-04.md)
-- [Semana 05 - CodeIgniter Shield: autenticación segura](./semana-05.md)
-- [Semana 06 - RBAC, permisos granulares y autorización server-side](./semana-06.md)
-- [Semana 07 - Doble factor TOTP, códigos de recuperación y step-up authentication](./semana-07.md)
-- [Semana 08 - Sesiones seguras, auditoría, eventos de seguridad y logging](./semana-08.md)
-- [Semana 09 - OWASP Top 10 Web aplicado, validación, XSS, CSRF, inyección y subida segura de ficheros](./semana-09.md)
-- [Semana 10 - OpenCode como agente de desarrollo seguro y OWASP Top 10 LLM](./semana-10.md)
-- [Semana 11 - GitHub Actions, base de datos local/prod, release manual y despliegue SFTP](./semana-11.md)
-- [Semana 12 - Proyecto final, documentación, demo, portfolio y retrospectiva profesional](./semana-12.md)
+- [Semana 01 - Entorno local profesional con PHP 8.4, CodeIgniter 4, VS Code, GitHub y OpenCode](./unidades/semana-01.md)
+- [Semana 02 - Documento cliente, normalización de requisitos y sistema documental SDD](./unidades/semana-02.md)
+- [Semana 03 - Tareas atómicas, importación desde Excel/Jira y generación de Markdown](./unidades/semana-03.md)
+- [Semana 04 - Bootstrap del proyecto, estructura CodeIgniter, HTML5, Bootstrap 5 y base MySQL/MariaDB](./unidades/semana-04.md)
+- [Semana 05 - CodeIgniter Shield: autenticación segura](./unidades/semana-05.md)
+- [Semana 06 - RBAC, permisos granulares y autorización server-side](./unidades/semana-06.md)
+- [Semana 07 - Doble factor TOTP, códigos de recuperación y step-up authentication](./unidades/semana-07.md)
+- [Semana 08 - Sesiones seguras, auditoría, eventos de seguridad y logging](./unidades/semana-08.md)
+- [Semana 09 - OWASP Top 10 Web aplicado, validación, XSS, CSRF, inyección y subida segura de ficheros](./unidades/semana-09.md)
+- [Semana 10 - OpenCode como agente de desarrollo seguro y OWASP Top 10 LLM](./unidades/semana-10.md)
+- [Semana 11 - GitHub Actions, base de datos local/prod, release manual y despliegue SFTP](./unidades/semana-11.md)
+- [Semana 12 - Proyecto final, documentación, demo, portfolio y retrospectiva profesional](./unidades/semana-12.md)
 
 ## Uso recomendado
 
